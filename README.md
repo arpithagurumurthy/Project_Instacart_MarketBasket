@@ -21,6 +21,10 @@ Some basic observations are as follows:
 
 ![alt text](https://github.com/arpithagurumurthy/Project_Instacart_MarketBasket/blob/main/num_orders_hour.png)
 
+* Apriori algorithm results
+
+![alt_text](https://github.com/arpithagurumurthy/Project_Instacart_MarketBasket/blob/main/apriori.png)
+
 
 
 
